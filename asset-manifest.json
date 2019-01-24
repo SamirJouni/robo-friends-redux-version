@@ -8,8 +8,8 @@
   "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
   "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
   "static/media/App.css": "./static/media/SEGA.12a3db8b.woff",
-  "static/css/1.08ac7309.chunk.css.map": "./static/css/1.08ac7309.chunk.css.map",
   "static/css/main.0b8c30af.chunk.css.map": "./static/css/main.0b8c30af.chunk.css.map",
+  "static/css/1.08ac7309.chunk.css.map": "./static/css/1.08ac7309.chunk.css.map",
   "index.html": "./index.html",
   "precache-manifest.afdf194ae865328240af3e5d26fd4a79.js": "./precache-manifest.afdf194ae865328240af3e5d26fd4a79.js",
   "service-worker.js": "./service-worker.js"
