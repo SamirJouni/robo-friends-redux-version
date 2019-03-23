@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "./static/js/runtime~main.2c977d9b.js"
   },
   {
-    "revision": "df2f516863ecc1c3ceaf",
+    "revision": "b8656e528ef2ce6bd32b",
     "url": "./static/css/2.9f47b515.chunk.css"
   },
   {
-    "revision": "df2f516863ecc1c3ceaf",
-    "url": "./static/js/2.99616e39.chunk.js"
+    "revision": "b8656e528ef2ce6bd32b",
+    "url": "./static/js/2.21409efa.chunk.js"
   },
   {
     "revision": "12a3db8ba7f5423327bb12aed3c41977",
     "url": "./static/media/SEGA.12a3db8b.woff"
   },
   {
-    "revision": "4e62fc060ae96515f582c57b515ff243",
+    "revision": "b0c812608367eed374c3ba2eeb819ed2",
     "url": "./index.html"
   }
 ];
