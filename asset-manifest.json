@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.33277fda.chunk.css",
-    "main.js": "./static/js/main.97f97f4e.chunk.js",
-    "main.js.map": "./static/js/main.97f97f4e.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "main.css": "./static/css/main.41fa20c6.chunk.css",
+    "main.js": "./static/js/main.cd5d92b1.chunk.js",
+    "main.js.map": "./static/js/main.cd5d92b1.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.99c8b93f.js",
+    "runtime~main.js.map": "./static/js/runtime~main.99c8b93f.js.map",
     "static/css/2.31dafeb2.chunk.css": "./static/css/2.31dafeb2.chunk.css",
-    "static/js/2.a9111867.chunk.js": "./static/js/2.a9111867.chunk.js",
-    "static/js/2.a9111867.chunk.js.map": "./static/js/2.a9111867.chunk.js.map",
+    "static/js/2.3d17bb8e.chunk.js": "./static/js/2.3d17bb8e.chunk.js",
+    "static/js/2.3d17bb8e.chunk.js.map": "./static/js/2.3d17bb8e.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.a82c59104e37252a246c6f860e2d9f2b.js": "./precache-manifest.a82c59104e37252a246c6f860e2d9f2b.js",
+    "precache-manifest.6ec9207bed1b28da9f41d477463051bd.js": "./precache-manifest.6ec9207bed1b28da9f41d477463051bd.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "./static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.33277fda.chunk.css.map": "./static/css/main.33277fda.chunk.css.map",
+    "static/css/main.41fa20c6.chunk.css.map": "./static/css/main.41fa20c6.chunk.css.map",
     "static/media/App.css": "./static/media/SEGA.12a3db8b.woff"
   }
 }
