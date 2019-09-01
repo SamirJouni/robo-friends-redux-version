@@ -4,15 +4,15 @@
   "private": true,
   "homepage": "./",
   "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-redux": "^7.0.3",
-    "react-scripts": "^3.0.1",
-    "redux": "^4.0.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-redux": "^7.1.1",
+    "react-scripts": "^3.1.1",
+    "redux": "^4.0.4",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
     "tachyons": "^4.11.1",
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -29,6 +29,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.1.1"
   }
 }

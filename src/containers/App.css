@@ -12,7 +12,6 @@
 
 .roboTitle {
 	font-family: 'SEGA LOGO FONT';
-	font-size: 4rem;
 	font-weight: 200;
 	color: #0afff7;
 }
@@ -29,4 +28,25 @@ input {
 
 .bg-light-green-custom {
 	background: #65f1bd;
+}
+
+@media only screen and (min-width: 320px) {
+	.roboTitle {
+	font-size: 2.5rem;
+	}
+}
+@media only screen and (min-width: 375px) {
+	.roboTitle {
+	font-size: 2.8rem;
+	}
+}
+@media only screen and (min-width: 425px) {
+	.roboTitle {
+		font-size: 3rem;
+		}
+}
+@media only screen and (min-width: 768px) {
+	.roboTitle {
+		font-size: 4rem;
+		}
 }
